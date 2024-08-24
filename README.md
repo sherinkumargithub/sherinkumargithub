@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sherinkumargithub
+- 👋 Hi, I’m @sherinkumar
 - 👀 I’m interested in inovating and discovering a new tech stuff
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on like minded peoples
